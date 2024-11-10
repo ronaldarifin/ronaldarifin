@@ -1,11 +1,11 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Vector Search
+- 🔭 I’m currently working on Vector Search @HrHouz
 - 🌱 I’m currently learning about infrastructure and advanced Git
-- 👯 I’m love teaching others about computer science :)
-- 💬 Ask me about productivity hacks
+- 👯 I love teaching others about computer science :)
+- 💬 Ask me about productivity hacks: My favs are Raycast, Warp, Vim, Cursor
 - 📫 How to reach me: ronaldarifin@berkeley.edu
 - 😄 Pronouns: He/him
-- ⚡ I'm looking for full-time opportunities after December 2024
+- ⚡ I'm looking for full-time opportunities
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ronaldarifin_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldarifin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ronaldarifin2001) 
