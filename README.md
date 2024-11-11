@@ -1,15 +1,16 @@
 # 💫 About Me:
 - 🔭 I’m currently working on Vector Search @HrHouz
-- 🌱 I’m currently learning about infrastructure and advanced Git
+- 🌱 I’m currently learning Terraform
 - 👯 I love teaching others about computer science :)
-- 💬 Ask me about productivity hacks: My favs are Raycast, Warp, Vim, Cursor
+- 💬 My favorite productivity tools Raycast, Warp, Vim, Cursor
 - 📫 How to reach me: ronaldarifin@berkeley.edu
 - 😄 Pronouns: He/him
 - ⚡ I'm looking for full-time opportunities
 
 ## 🌐 Socials:
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldarifin) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ronaldarifin2001) [![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=google-chrome&logoColor=white)](https://ronaldarifin.com)
+[![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=google-chrome&logoColor=#00A1D1)](https://ronaldarifin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldarifin) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ronaldarifin2001) 
 
 
 # 💻 Tech Stack:
