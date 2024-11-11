@@ -8,9 +8,10 @@
 - ⚡ I'm looking for full-time opportunities
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-%2312100E.svg?logo=google-chrome&logoColor=#00A1D1)](https://ronaldarifin.com)
+[![Website](https://img.shields.io/badge/Website-%2300A1D1.svg?logo=google-chrome&logoColor=white)](https://ronaldarifin.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ronaldarifin) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ronaldarifin2001) 
+
 
 
 # 💻 Tech Stack:
